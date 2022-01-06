@@ -1,0 +1,11 @@
+
+{
+    "token": "your bot's token",
+    "prefix": "!",
+    "mongooseConnectionString": "",
+    "developers": [""],
+    "supportserver": "",
+    "webhookURL": "https://discord.com/api/webhooks/917904436905521232/Wy3jIXywErgvbJSv978zkZohmU5h6NsRbYn2dM_JINMgFykx8bk2yaJkoP-YVFtZmXJ5"
+}
+
+
